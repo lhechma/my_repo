@@ -3,3 +3,4 @@ a new line
 another line
 un nouveau changement sur master
 f1 again  
+conflit
